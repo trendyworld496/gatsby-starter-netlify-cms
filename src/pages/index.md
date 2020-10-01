@@ -1,56 +1,147 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: trendyworld496
+image: /img/undraw_pcsocial_16rw.png
+heading: trendyworld496
+subheading: Success never comes overnight
 mainpitch:
-  title: Why Kaldi
+  title: About me
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    I am a website developer and I can work on some other things. This is my
+    childhood dream to work online jobs just like this fiverr. I love them very
+    much. I am not designing photocopies of web pages, we’re designing web
+    pages.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/do-guest-posts-on-my-apk-sites-da-25-plus-traffic-10k-plus.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        I will post with a permanent dofollow backlink to boost your website
+        ranking.
+
+
+        I Do not publish Alcholol,Adult, Movies, Drugs, promotional content And Gambling.
+
+
+        Domain Matrics
+
+
+        Da 25+
+
+
+        Pa 30+
+
+
+        Dr 10-30+
+
+
+        Ur 20-40+
+
+
+        Spam score -0
+
+
+        Organic Traffic Source 
+
+
+        Monthly Traffic - 15k +
+
+
+        Niche - android apk, apps , games, Vpn
+
+
+        Benefits for your website:
+
+
+        Supper Fast Ranking
+
+
+        Boost your website traffic
+
+
+        Fast Da Pa increasing
+
+
+        If you’ll provide us an article:
+
+
+        Apk and Android Gaming Niche  article will be accepted.
+
+
+        It Should be 100% Unique.
+
+
+        At Least 400 words.
+    - image: /img/provide-verified-whatsapp-numbers-acording-to-your-target.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        I will Filter Whatsapp & Telegram Numbers At low cost acording to your
+        targeted country phone numbers.
+
+
+        Features
+
+         Filter Whatsap Numbers 
+         Number Generating
+         Whatsapp Verrified Numbers Filtering
+         Business Whatsapp Numbers Filtering
+         Telegram Numbers Filtering
+        Whatsapp Groups Filtering
+    - image: /img/youtube-seo-optimize-your-channel-any-video-to-improve-ranking-views-likes-more.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Are you lacking a presence on social media or don't know where to start?
+        Are you struggling to find time for posting AND staying up to date with
+        the latest trends?
+
+        ➡️ Hire me to help you out!
+
+
+        Services I offer to help you grow online include:
+
+
+        ➽Video topic/keyword research
+
+        ➽YouTube Channel Optimization
+
+        ➽Video Optimization (tags, title, and description)
+
+        ➽Custom Thumbnail creation
+
+        ➽Video Views, Likes, Comments, Share Specialist
+
+        ➽Content and Distribution Strategy
+
+        ➽Channel Playlist Creation
+
+        ➽Basic Video Editing
+
+        and anything you can think of YouTube-related!
+
+
+        I graduated from the vidIQ academy and also a student of science and technology at Cyber College.
+
+
+        Why hire me?
+
+
+        Working on video marketing strategy from 2010
+
+
+        If you would like to know more about my qualifications or are interested in hiring me for a job, reach out to me!
+  heading: Skills
+  description: |
+    Facebook Ads
+    Whatsapp Marketing
+    Guest Posting
+    Youtube Seo Expert
+    Facebook Marketing
+    Email Collecting
+    Instagram Marketing
+    Social Media Marketing
+    Digital Marketing
+    Email Marketing
 main:
   heading: Great coffee with no compromises
   description: >
@@ -60,11 +151,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/undraw_mobile_marketing_iqbr.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/undraw_social_girl_562b.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/undraw_social_growth_d0y3.png
 ---
